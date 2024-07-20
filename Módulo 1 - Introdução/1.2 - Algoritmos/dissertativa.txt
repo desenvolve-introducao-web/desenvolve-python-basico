@@ -1,4 +1,4 @@
-1 - Leia e armazene o "número" entre que deseja multiplicar por 9 #Entrada
+1 - Leia e armazene o "número" que deseja multiplicar por 9 #Entrada
 2 - (Dígito 1 = número - 1) e (Dígito 2 = 10 - número) #Processamento
 3 -  Armazene Dígito 1 e Dígito 2  #Processamento
 4 - Resultado = Dígito 1 * 10 + Dígito 2 #Processamento
